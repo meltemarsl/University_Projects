@@ -4,10 +4,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import datetime
 
-
-## Part 1
-
 ### Step 1
+# 50 points in two classes
 
 # In[67]:
 
@@ -50,7 +48,7 @@ if((sys.argv[1] == 'part1') and (sys.argv[2] == 'step1')) :
 
 
 ### Step 2
-
+# 100 points in two classes
 # In[13]:
 
 
@@ -93,7 +91,7 @@ if((sys.argv[1] == 'part1')and (sys.argv[2] == 'step2')) :
 
 
 ### Step 3
-
+# 5000 points in two classes
 # In[10]:
 
 
