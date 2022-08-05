@@ -30,6 +30,6 @@ $ python3 train.py
 
 ## TESTING
 
-$ python3 Step3_Solis.py Model_Solis.pkl TEST
+$ python3 Step3_Solis.py model.pkl TEST
 
 Output: A string consisting of P,N,Z characters representing predicted class of each document.
