@@ -1,12 +1,12 @@
 ### Sentiment Analysis on IMDB User Reviews
 
 
-# BEFORE RUNNING
+## BEFORE RUNNING
 
 $ python3 -m pip install -r requirements.txt
 
 
-# TRAINING
+## TRAINING
 
 There should be a training set in the directory "TRAIN" for this to work.
 
@@ -28,8 +28,8 @@ $ python -m spacy download en_core_web_sm
 $ python3 train.py
 
 
-# TESTING
+## TESTING
 
-$ python3 462project_step3_Solis.py step3_model_Solis.pkl TEST
+$ python3 Step3_Solis.py Model_Solis.pkl TEST
 
 Output: A string consisting of P,N,Z characters representing predicted class of each document.
