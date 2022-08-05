@@ -1,0 +1,15 @@
+numpy
+matplotlib.pyplot
+array
+string
+os
+pickle
+wordcloud
+sklearn
+nltk
+gensim
+tensorflow
+tensorflow_hub
+tensorflow.keras
+bert
+spacy
